@@ -1,0 +1,40 @@
+{
+    "id": "celestialpvp",
+    "name": "CelestialPvP",
+    "website": "https://store.celestialpvp.net",
+    "store": "https://store.celestialpvp.net/",
+    "addresses": [
+        "celestialpvp.net",
+        "play.celestialpvp.net"
+    ],
+    "primaryAddress": "play.celestialpvp.net",
+    "primaryColor": "#1EA7B4",
+    "secondaryColor": "#2BBFCD",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Prisons"
+    ],
+    "socials": {
+        "discord": "discord.gg/celestialpvp"
+    }
+}
